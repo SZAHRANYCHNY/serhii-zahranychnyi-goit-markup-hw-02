@@ -1,2 +1,1 @@
-# serhii-zahranychnyi-goit-markup-hw-02
- 
+# SZAHRANYCHNY-SZAHRANYCHNY-goit-markup-hw-02
